@@ -5,8 +5,10 @@
     <title>homepage</title>
 </head>
 <body>
-     <%- include('./partials/nav') %>
     
+     <%- include('./partials/nav') %>
+    <%= JSON.stringify(user) %>
+    <%- include('./partials/script') %>
 </body>
-<%- include('./partials/script') %>
+
 </html>

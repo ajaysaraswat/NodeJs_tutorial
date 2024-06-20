@@ -59,7 +59,7 @@ UserSchema.pre('save', function(next) {
     .digest('hex');
    if(hashedPassword !==userProvidedHash) throw new Error('User dont found');
     const token = createTokenforUser(user);
-    console.log(token);
+   
     return token;
  });
 

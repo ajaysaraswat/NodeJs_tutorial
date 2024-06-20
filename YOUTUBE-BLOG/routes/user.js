@@ -36,6 +36,10 @@ catch(error){
 }
 });
 
+router.get("/logout",(req,res)=>{
+    res.clearCookie("token").redirect("/");
+})
+
 
 
 module.exports = router;
