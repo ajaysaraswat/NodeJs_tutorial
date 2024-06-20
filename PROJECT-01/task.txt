@@ -1,0 +1,10 @@
+REST API
+
+GET /USERS - List all the USERS
+get/users/1-user with id 1
+get/users/2-user with id 2
+
+post/users - create new user
+patch/users/1 - edit the user with id 1
+
+delete /users/1 - delete the user with id 1

@@ -1,0 +1,13 @@
+
+1718272542387: ::1 GET:/api/users/666a8e3f1f60dd606bb5eb02
+1718272550127: ::1 GET:/api/users/666a8e3f1f60dd606bb5eb02
+1718272563716: ::1 GET:/api/users
+1718272606693: ::1 GET:/api/users
+1718272676123: ::1 GET:/api/users
+1718272776830: ::1 POST:/api/users
+1718272805228: ::1 GET:/api/users
+1718272819309: ::1 GET:/api/users
+1718272825884: ::1 POST:/api/users
+1718272927703: ::1 POST:/api/users
+1718272995533: ::1 POST:/api/users/666a8aa8c9ceccaaee948107
+1718273093846: ::1 GET:/api/users/666a8aa8c9ceccaaee948107

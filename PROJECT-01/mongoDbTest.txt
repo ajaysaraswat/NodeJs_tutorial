@@ -1,0 +1,3 @@
+Schema - Define the strucure
+      schema ka use karke model banate hai
+       using model we do CRUD operations(create,delete,post)
